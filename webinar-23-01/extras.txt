@@ -1,0 +1,5 @@
+Думать как разработчик:
+  - https://www.youtube.com/watch?v=YWwBhjQN-Qw
+  - https://zellwk.com/blog/think/
+  - https://medium.com/team-treehouse/thinking-like-a-developer-f9d9fac5a961
+  - http://thorpsci.weebly.com/uploads/1/7/0/0/17001640/think_like_a_programmer.pdf
