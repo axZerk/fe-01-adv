@@ -1,0 +1,11 @@
+- Поиск DOM-узлов: id, class, tag, attribute
+- textContent vs innerHTML
+- Работа с classList
+- Работа с атрибутами
+- Работа со стилями
+- Навигация по DOM-дереву
+- Создание узлов
+- Вставка узлов в DOM (appendChild\append\innerHTML\insertAdjacentHTML итд)
+- Reflow/Repaint (оптимизация работы с DOM)
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png
